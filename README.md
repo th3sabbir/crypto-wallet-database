@@ -29,7 +29,7 @@ This project is a database-driven Crypto Wallet Management System designed using
 
 ## Includes
 *   SQL file to create all tables and insert sample data
-*   Project report (DOCX/PDF)
+*   Project report as pdf
 *   Sample screenshots
 
 ---
