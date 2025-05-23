@@ -34,5 +34,5 @@ This project is a database-driven Crypto Wallet Management System designed using
 
 ---
 
-This project serves as a demonstration of front-end web development skills.
+This project serves as a demonstration of database design and backend logic using MySQL.
 
