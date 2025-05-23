@@ -2,17 +2,17 @@
 This project is a database-driven Crypto Wallet Management System designed using MySQL and tested via phpMyAdmin (XAMPP). It simulates the backend functionality of a cryptocurrency wallet system including user authentication, wallet creation, balance tracking, transactions, and audit logging.
 <br>
 📂 Features<br>
-👥 User management (user/admin roles)<br>
+User management (user/admin roles)<br>
 <br>
-💼 Wallet creation for multiple cryptocurrencies<br>
+Wallet creation for multiple cryptocurrencies<br>
 <br>
-🔁 Transaction handling with status tracking<br>
+Transaction handling with status tracking<br>
 <br>
-💰 Real-time balance updates<br>
+Real-time balance updates<br>
 <br>
-📜 Audit logs for all user actions<br>
+Audit logs for all user actions<br>
 <br>
-🛠 Admin views for users, wallets, and transactions<br>
+Admin views for users, wallets, and transactions<br>
 <br>
 🧱 Database Tables<br>
 Users – Stores user credentials and roles<br>
@@ -32,8 +32,8 @@ phpMyAdmin via XAMPP<br>
 <br>
 
 📄 Includes<br>
-✅ SQL file to create all tables and insert sample data<br>
+SQL file to create all tables and insert sample data<br>
 <br>
-✅ Project report (DOCX/PDF)<br>
+Project report (DOCX/PDF)<br>
 <br>
-✅ Sample screenshots<br>
+Sample screenshots<br>
