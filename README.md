@@ -12,8 +12,8 @@ This project is a database-driven Crypto Wallet Management System designed using
 *   Transaction fees by cryptocurrency
 *   Address generation logs
 *   Admin views for users, wallets, and transactions
-<br>
-## database Tables
+
+## Database Tables
 *   Users – Stores user credentials and roles
 *   Wallets – Tracks each user's crypto wallets
 *   Currencies – Lists supported cryptocurrencies (BTC, ETH, etc.)
@@ -22,7 +22,7 @@ This project is a database-driven Crypto Wallet Management System designed using
 *   Notifications – Sends and tracks user messages/alerts
 *   TransactionFees – Defines fee percentage per currency
 *   AddressGenerationLogs – Logs auto-generated wallet addresses per user/currency
-<br>
+
 ## Tools Used
 *   MySQL
 *   phpMyAdmin via XAMPP
